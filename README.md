@@ -1,4 +1,4 @@
-# 3D-Printed-16-key-USB-MIDI-using-Arduino-Pro-Micro
+# 3D Printed 16 key USB MIDI using Arduino Pro Micro
 
 I was bored a bit so I made myself 3D Printed 16 key USB MIDI using Arduino Pro Micro.
 
