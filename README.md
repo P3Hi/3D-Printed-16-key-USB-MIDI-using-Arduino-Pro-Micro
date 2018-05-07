@@ -28,5 +28,9 @@ Project should be easy to compile using Arduino Studio just install the same two
 
 Check this site to learn more about the touchpad and how to setup multitouch if you need it.
 https://www.robotics.org.za/TTP229-MOD
+
+See more on Hackster.IO!
+https://www.hackster.io/p3hi/3d-printed-16-key-usb-midi-using-arduino-pro-micro-c6c23e
+
 # Check demonstration here
 [![Demonstration](https://img.youtube.com/vi/_5QUpAhMLr8/0.jpg)](https://www.youtube.com/watch?v=_5QUpAhMLr8)
